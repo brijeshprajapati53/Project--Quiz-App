@@ -10,6 +10,6 @@ export default function Footer() {
       zIndex: 1000
     }}>
       Build and Cared by <strong>Brijesh Prajapati</strong> with ❤️ and Support
-    </footer>
+    </footer> 
   )
 }
